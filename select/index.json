@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ガガガガガガガ",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-15T11:48:49.027900Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガガガガガガガ",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/01_ガガガガガガガ_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガガガガガガガ",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_ガガガガガガガ_ゴールデンボンバー.txt"
+    }
+  ]
+}
